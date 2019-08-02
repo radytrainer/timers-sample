@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    margin-top: 150px;
+    text-align: center;
+    color:#fff;
+}
+#clock {
+    font-weight: 300;
+    font-size: 100px;
+}
+#hex-color {
+    font-weight: normal;
+    font-size: 50px;
+    letter-spacing: 10px;
+}
+
+#months {
+    letter-spacing: 4px;
+}
